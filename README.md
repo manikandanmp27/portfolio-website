@@ -1,3 +1,4 @@
 # portfolio-website
 
-Portfolio website created for Manikandan M P using React and Vite.
+Portfolio website created using Google Antigravity
+
